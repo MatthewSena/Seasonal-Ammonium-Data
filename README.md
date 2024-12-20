@@ -1,3 +1,5 @@
+The Seasonal-Ammonium-Data file includes groundwater chemistry, temperature, water level, and hydraulic gradient data collected from November 2019 - November 2023. Two riparian sites upstream of milldams were monitored: the Roller Milldam (RM) near Manheim, PA on the Chiques Creek and the Cooch Milldam (CM) on the Christina River in Newark, DE, USA. 
+
 Column name descriptions are listed below:
 
 "RM_Data" Tab 
